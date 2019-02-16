@@ -1,0 +1,23 @@
+{
+  "name": "server-demo",
+  "version": "1.0.0",
+  "description": "Portfolio Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanner253/server-demo.git"
+  },
+  "author": "Tanner Percival",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanner253/server-demo/issues"
+  },
+  "homepage": "https://github.com/Tanner253/server-demo#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
